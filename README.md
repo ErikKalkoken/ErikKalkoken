@@ -1,5 +1,3 @@
-### Erik Kalkoken's GitHub stats
-
 ![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErikKalkoken&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
 
 <!--
